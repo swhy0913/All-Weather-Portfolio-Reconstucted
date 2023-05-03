@@ -1,6 +1,5 @@
 # All-Weather-Portfolio-Reconstucted
 
-Project scope:
 Reconstructed our version of Ray Dalio's "All Weather Portfolio" by applying Machine Learning - NLP technique on Fed Speech historical statements and transcripts (1996 - 2022) 
 Applied sentiment analysis and LDA topic analysis on the transcripts to determine market economic regime as a indicator for portfolio rebalancing.
 
