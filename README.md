@@ -19,6 +19,7 @@ Sharpe Ratio 0.73
 CAGR 6.71%
 Max Drawdown 9 months, -20.19%
 Std Deviation(%) 7.6
+(Source: https://www.lazyportfolioetf.com/allocation/)
 
 Benchmark comparison: 
 
