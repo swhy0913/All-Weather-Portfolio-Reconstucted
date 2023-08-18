@@ -7,7 +7,7 @@
 #### In our approach, we employ Word2Vec word embedding techniques to identify the key terms "Inflation" and "Growth" in Federal Reserve speech transcripts and VIX as market volatility guage to determine market expectation. The word terms are used as features to train our model. We conducted Sentiment Analysis on Federal Reserve speech transcripts dating from 1996 to 2022 using Machine Learning techniques, Natural Language Processing (NLP), and Latent Dirichlet Allocation (LDA) Topic Modeling to inform our portfolio rebalancing strategy for different economic regimes.
 
 
-<img src="https://github.com/swhy0913/All-Weather-Portfolio-Reconstucted/assets/19575677/54793bcc-f3d7-484e-a028-bfee63502f89" width="566.5" height="393.5">
+<img src="https://github.com/swhy0913/All-Weather-Portfolio-Reconstucted/assets/19575677/54793bcc-f3d7-484e-a028-bfee63502f89" width="679.8" height="472.2">
 
 ## The following are the model performance comparison:
 
